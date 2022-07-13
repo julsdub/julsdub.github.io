@@ -1,0 +1,22 @@
+12/07/2022
+
+I started the day with a good cup of coffe, reading "Phyton Crash Course" and making some of the proposed exercices, I'm learnig and enjoying. 
+I like the way the author explains and writes, I Like it and i'm starting on getting trapped by the book and start learning some Phyton. 
+This is not my first time on learning some developing languages, over the years I tried to learn javascript, it was when I was studing my first Bachelor degree,CFGS Ciclo Formativo de Grado Superior de Telecomunicaciones,as we called here in Spain. Also I tried C# in 42 School Bootcamp, and some other languages but I never get cached. But to be honest in the past i don't liked so much, nowadays I'm thinking different, is a very good skill no only to be better in day job and for learn a new skill is because it gives you a lot of tools for live,  to view live in different ways, helps you on solving day problems, helps you on asking for help, team work, creating comunnity. 
+
+The goal of this blog is express myself, write about me, my day, and write what i'm doing. Some days i will write about code, others networking, operating systems, virtualization, arduino and more. Some of them are realted to my studies, because I'm reciclying myself, others are about new skills or new subjects i like to learn. 
+I love knowing who things work, repair and make things, for this reason maybe i'll post one of my beer recipes or because i love woodworking, would I made a diy guide?,What do you think?. For sure i'll make some guides related in throubleshoothing and repair. Why? Because I'am a big advocate of "Right to Repair" and i spent almost my work career on It, repairing devices, software failures, operating system crashes and networking.
+
+I'll be writing a lot of technology, is the main goal of this blog, i'm a passionate of techonlogy, but not only, I love nature and mountains, to clear my head I go practice trailrunning. As i said before i like woodworking 
+Maybe I will write about brewing and  when I decided to quit some time from the IT Industry, Costumer service bournout, and spend some time in some of the best craft beer breweries in Barcelona.
+
+All this and you don't know how am I!!
+I'm Julian from small city near Barcelona, I'am It Support and Sysadmin freelance, because of this, I'am working partime this summer as handyman and janitor in my old school. As i said, I love repair things, an this is a big house with a lot of things to repair. I love this job because I remember my happy days there, I studied from 6 to 18 years old, now is a bit different, I have full access!! xD 
+But not only i'm working on the school, in the mornings I will start a 5 hours a day course on cybersecurity for small bussiness. 
+I'm starting on cybersecurity and this is the main reson for studying programming and recycling myself. I was an script kiddie when I started on Internet late 90's, messing in IRC, but nothing else.
+Why I'm reconduiting my carrer to cyber because is a personal challange and step forward. I spent some many years on hardware and Apple ecosystem industry and i didn't care so much on security in general. I 'll explain in the future my past roles at Apple and why i'm an Apple user 
+
+All the post are made and talk about two macbooks, one runnig MacOs and virtual box(pfsense, kali, metaspl), the other macbook runs kali linux, one MacPro 2009 (4.1 updated to 5.1) that is under maintenance and one pc running proxxmox with  win11 and pfsense installed . The MacPro is down because the pc uses the same memory DDR 3, problems of budget. All this computers, except one macbook are donated from friends and i used in the past in my courses, i don't mentioned i'm teacher too. I teach free courses for young pepople in exclusion risk and nonworkers on reparing computers, laptops, smartphones and tablets. 
+
+Tomorrow I will write about setting up this space, I'm using jekyll and github pages, starting too :)
+
